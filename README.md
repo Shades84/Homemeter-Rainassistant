@@ -1,7 +1,9 @@
 # Homemeter-Rainassistant
 A Home Assistant control and status suite for Rainmeter
 
-Requires curl to be installed.
+Requires curl to be installed.([here](https://curl.haxx.se/))
+
+Requires Rainmeter-JsonParser plugin to be installed. ([here](https://github.com/e2e8/rainmeter-jsonparser))
 
 Edit the options.inc to input your 
 * Home Assistant address
