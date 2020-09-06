@@ -1,8 +1,6 @@
 # Homemeter-Rainassistant
 A Home Assistant control and status suite for Rainmeter
 
-A simple suite for various Home Assistant controls.
-
 Requires curl to be installed.
 
 Edit the options.inc to input your 
