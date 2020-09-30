@@ -2,9 +2,9 @@
 A Home Assistant control and status suite for Rainmeter
 
 Whats New:
-*Added the settings skin for more user-friendly variable input
-*Updated icons to have a consistent size/style (From flaticon, various artists)
-*Added option for a solid background color, which is user configurable
+* Added the settings skin for more user-friendly variable input
+* Updated icons to have a consistent size/style (From flaticon, various artists)
+* Added option for a solid background color, which is user configurable
 
 Requires curl to be installed.([here](https://curl.haxx.se/))
 
