@@ -6,7 +6,7 @@ Whats New:
 * Updated icons to have a consistent size/style (From flaticon, various artists)
 * Added option for a solid background color, which is user configurable
 
-Requires curl to be installed.([here](https://curl.haxx.se/))
+Requires curl. Get it from [here](https://curl.se/windows/). I downloaded this and moved the contents of the 'bin' folder to a new 'curl' folder in a convient place. You need to add curl to your windows path. Check the instructions [here](https://develop.zendesk.com/hc/en-us/articles/360001068567-Installing-and-using-cURL/) for a good guide
 
 Requires Rainmeter-JsonParser plugin to be installed. ([here](https://github.com/e2e8/rainmeter-jsonparser))
 
