@@ -2,6 +2,7 @@
 - Home Assistant installed and set up properly
 - Switches, sensors, lights, etc configured in Home Assistant
 - Rainmeter installed
+- Rainmeter-JsonParser, get it [here](https://github.com/e2e8/rainmeter-jsonparser)
 
 # step 1, Installing curl
 - Download curl from [here](https://curl.se/windows/) (more than likely you should get the 64 bit)
