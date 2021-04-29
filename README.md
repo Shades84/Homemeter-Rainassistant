@@ -2,14 +2,19 @@
 A Home Assistant control and status suite for Rainmeter
 
 What's New:
-* Added more lovelace style tile variants as well as the 'button' style (which looks the same as before)
-* Each template now has a configuration file that the skin can pull from. Place your entity ID in this file for each copy of the skin
-* Added media player widget! Limited functionality as of right now (see below for next steps)
+* User defined on state colors. Now, every icon starts out as a white icon and has a tint applied to it
+* Vertical sensor bar graph variant 
+* Created a (somewhat) comprehensive installation and troubleshooting guide.
+* Actually uploaded the media player skin (forgot to do that somehow last time)
+
+This is my first project that i've opened up to the community, and im still working out a lot of the kinks in my workflow. And also, improving my coding style. I appreciate people being patient. Message me here or on reddit if you are having issues.
 
 What's Next:
-* Improve media player functionality (album art, progress indicator, toggle mute)
-* More media player styles (Some sort of overlay picture to fancy it up a bit. Some modern, some retro, some very... 2000s)
-* User configurable on/off state indicator
+* Actually making the music player better
+
+
+## Quick Start Guide
+See the full installation guide for more details
 
 Requires curl. Get it from [here](https://curl.se/windows/). I downloaded this and moved the contents of the 'bin' folder to a new 'curl' folder in a convient place. You need to add curl to your windows path. Check the instructions [here](https://develop.zendesk.com/hc/en-us/articles/360001068567-Installing-and-using-cURL/) for a good guide
 
@@ -20,6 +25,7 @@ Load the "settings" skin to change your
 * Home Assistant Authentication Token. Instructions [here](https://www.home-assistant.io/docs/authentication/)
 * Refresh rate (higher refreshes more often, but might cause more cpu/network usage)
 * Icon color scheme and size 
+* Icon highlight (this is the color the button shows when the state is 'on')
 * Text and background color options
 
 
