@@ -11,6 +11,7 @@ This is my first project that i've opened up to the community, and im still work
 
 What's Next:
 * Actually making the music player better
+* Automated skin generator (Idea is that you run a script and it makes a copy of the necessary templates and fills in the information)
 
 
 ## Quick Start Guide
