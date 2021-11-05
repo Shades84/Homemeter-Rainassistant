@@ -2,10 +2,9 @@
 A Home Assistant control and status suite for Rainmeter
 
 What's New:
-* User defined on state colors. Now, every icon starts out as a white icon and has a tint applied to it
-* Vertical sensor bar graph variant 
-* Created a (somewhat) comprehensive installation and troubleshooting guide.
-* Actually uploaded the media player skin (forgot to do that somehow last time)
+* Improved the Media Player skin (split it into music and movie versions, made the art only download when the title changes)
+* Added a couple of neat media player variants 
+* Reworked the directory structure of the entire project. Now it should be as simple as git cloning the whole thing (I promise not to change it any more)
 
 This is my first project that i've opened up to the community, and im still working out a lot of the kinks in my workflow. And also, improving my coding style. I appreciate people being patient. Message me here or on reddit if you are having issues.
 
