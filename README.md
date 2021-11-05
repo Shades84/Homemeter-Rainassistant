@@ -9,8 +9,9 @@ What's New:
 This is my first project that i've opened up to the community, and im still working out a lot of the kinks in my workflow. And also, improving my coding style. I appreciate people being patient. Message me here or on reddit if you are having issues.
 
 What's Next:
-* Actually making the music player better
 * Automated skin generator (Idea is that you run a script and it makes a copy of the necessary templates and fills in the information)
+* covers integration
+* continued iumprovement of troubleshooting guide
 
 
 ## Quick Start Guide
